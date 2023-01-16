@@ -1,8 +1,8 @@
 # How to install and set-up VS-Code
-Step one is to go to the microsoft website and install the file \n
-next, run the file \n
-the wizard should walk you through the next steps \n
-When complete it should look like this \n
+Step one is to go to the microsoft website and install the file
+next, run the file
+the wizard should walk you through the next steps
+When complete it should look like this
 <img width="1716" alt="Screen Shot 2023-01-15 at 9 29 33 PM" src="https://user-images.githubusercontent.com/61475580/212605155-925570cb-58d7-42cb-a12a-e0e55aa17f97.png">
 
 
